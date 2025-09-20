@@ -6,4 +6,4 @@ APP Introduce
 
 
 Swift
-- Swift 공부겸 코드 해석 진행중입니다
+- Swift 공부겸 실습을 해봄으로써 경험을 쌓기 위해 코드 해석 진행중입니다
